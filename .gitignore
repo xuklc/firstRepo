@@ -1,0 +1,15 @@
+/demo/pom.xml
+/.idea/demo.iml
+/.idea/misc.xml
+/.idea/modules.xml
+/demo/.gitignore
+/demo/.mvn/wrapper/maven-wrapper.jar
+/demo/.mvn/wrapper/maven-wrapper.jar
+/demo/mvnw
+/demo/mvnw.cmd
+/demo/.mvn/wrapper/maven-wrapper.jar
+/demo/.mvn/wrapper/maven-wrapper.properties
+/demo/src/main/java/com/nx/springcloud/DemoApplication.java
+/demo/src/main/resources/application.properties
+/demo/src/test/java/com/nx/springcloud/DemoApplicationTests.java
+/demo/.mvn/wrapper/maven-wrapper.jar
